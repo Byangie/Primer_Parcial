@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\bin\Debug\net8.0\PrimerParcial_Parte1.exe
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\bin\Debug\net8.0\PrimerParcial_Parte1.deps.json
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\bin\Debug\net8.0\PrimerParcial_Parte1.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\bin\Debug\net8.0\PrimerParcial_Parte1.dll
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\bin\Debug\net8.0\PrimerParcial_Parte1.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.dll
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\refint\PrimerParcial_Parte1.dll
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\PrimerParcial_Parte1.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\C#\PrimerParcial_Parte1\PrimerParcial_Parte1\obj\Debug\net8.0\ref\PrimerParcial_Parte1.dll
